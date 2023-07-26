@@ -1,4 +1,4 @@
-# ArrayList Printing
+# Printing of ArrayList
 ## Quetion
 * Declare an ArrayList as arr.
 * Take  as an integer input.
